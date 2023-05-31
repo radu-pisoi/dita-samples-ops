@@ -1,1 +1,1 @@
-# dita-samples-ops
+DITA files sample.
