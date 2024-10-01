@@ -7,6 +7,8 @@
     <deliverable id="Flowers_WebHelp-1704876931959" name="Flowers WebHelp">
         <context idref="vnCnrDSSFXBjqJb"/>
         <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
+        <publication idref="webhelp">
+            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
+        </publication>
     </deliverable>
 </project>
