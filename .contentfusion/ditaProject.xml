@@ -4,4 +4,12 @@
         <input href="../flowers/flowers.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-test2-1727850140670" name="test2">
+        <context idref="vnCnrDSSFXBjqJb"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param name="webhelp.publishing.template" value="cf://templates/Aluminum"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="true"/>
+        </publication>
+    </deliverable>
 </project>
