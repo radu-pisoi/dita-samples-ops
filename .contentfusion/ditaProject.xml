@@ -3,6 +3,5 @@
     <context id="vnCnrDSSFXBjqJb" name="Flowers">
         <input href="../flowers/flowers.ditamap"/>
     </context>
-    <publication id="webhelp" transtype="webhelp-responsive"/>
 
 </project>
