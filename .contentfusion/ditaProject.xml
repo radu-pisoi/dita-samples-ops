@@ -4,4 +4,12 @@
         <input href="../flowers/flowers.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="d-Test_3-1727850316336" name="Test 3">
+        <context idref="FFSbSttjfaFeDoQ"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param name="webhelp.publishing.template" value="cf://templates/Oxygen"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="true"/>
+        </publication>
+    </deliverable>
 </project>
