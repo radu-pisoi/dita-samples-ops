@@ -12,4 +12,12 @@
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="true"/>
         </publication>
     </deliverable>
+    <deliverable id="d-Delivetable_template_from_repo-1727865294770" name="Delivetable template from repo">
+        <context idref="FFSbSttjfaFeDoQ"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp">
+            <param name="webhelp.publishing.template" value="../test/template/repo"/>
+            <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
+        </publication>
+    </deliverable>
 </project>
