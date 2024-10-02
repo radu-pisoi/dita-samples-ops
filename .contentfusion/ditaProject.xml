@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <project xmlns="https://www.dita-ot.org/project">
+    <context id="vnCnrDSSFXBjqJb" name="Flowers">
+        <input href="../flowers/flowers.ditamap"/>
+    </context>
+    <publication id="webhelp" transtype="webhelp-responsive"/>
 </project>
