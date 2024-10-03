@@ -4,7 +4,7 @@
         <input href="../flowers/flowers.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
-    <deliverable id="d-Test_WH-1727947755734" name="Test WH">
+    <deliverable id="d-Test_WH-1727947755734" name="Test default template">
         <context idref="IFZSqDhrLaaoiBq"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
