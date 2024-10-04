@@ -24,7 +24,7 @@
         <context idref="IFZSqDhrLaaoiBq"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param name="webhelp.publishing.template" path="templates/test template"/>
+            <param name="webhelp.publishing.template" path="templates/My%20Aluminium"/>
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="false"/>
         </publication>
     </deliverable>
