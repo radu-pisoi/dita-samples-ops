@@ -20,7 +20,7 @@
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="true"/>
         </publication>
     </deliverable>
-    <deliverable id="d-WH_Cutom_template-1727947928084" name="WH Cutom template">
+    <deliverable id="d-WH_Cutom_template-1727947928084" name=" Deliverable with custom template">
         <context idref="IFZSqDhrLaaoiBq"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
