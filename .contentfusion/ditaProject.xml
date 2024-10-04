@@ -16,7 +16,7 @@
         <context idref="IFZSqDhrLaaoiBq"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param name="webhelp.publishing.template" path="../path/to/repo"/>
+            <param name="webhelp.publishing.template" path="../flowers/publishing/flowers"/>
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="true"/>
         </publication>
     </deliverable>
