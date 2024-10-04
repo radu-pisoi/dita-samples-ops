@@ -12,7 +12,7 @@
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="true"/>
         </publication>
     </deliverable>
-    <deliverable id="d-Test_template_from_GIT_repo-1727947839796" name="Test template from GIT repo">
+    <deliverable id="d-Test_template_from_GIT_repo-1727947839796" name="Deliverable with template from GIT repo">
         <context idref="IFZSqDhrLaaoiBq"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
