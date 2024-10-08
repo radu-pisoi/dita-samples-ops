@@ -4,11 +4,11 @@
         <input href="../flowers/flowers.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
-    <deliverable id="d-Test_WH-1727947755734" name=" Deliverable with default template">
+    <deliverable id="d-Test_WH-1727947755734" name="Test default template">
         <context idref="IFZSqDhrLaaoiBq"/>
         <output href="webhelp-output"/>
         <publication idref="webhelp">
-            <param name="webhelp.publishing.template" value="cf://templates/Aluminum"/>
+            <param href="cf://templates/Oxygen" name="webhelp.publishing.template"/>
             <param name="editlink.enable.edit.in.content.fusion.workspace" value="true"/>
         </publication>
     </deliverable>
